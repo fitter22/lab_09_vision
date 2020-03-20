@@ -1,0 +1,12 @@
+<package format="2">
+  <name>lab_09_vision</name>
+  <version>1.0.0</version>
+  <author>Lukasz Janasz</author>
+  <maintainer email="jana@zhaw.ch">Lukasz Janasz</maintainer>
+  <license>BSD</license>
+  <description>ROS package created for lab 09 of RAP course</description>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>rospy</exec_depend>  
+</package>
